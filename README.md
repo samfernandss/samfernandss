@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samfernandss
 - 👀 I’m interested in learning a lot of things. And get a job. lol
-- 🌱 I’m currently learning pure javascript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
