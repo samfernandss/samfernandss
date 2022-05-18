@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samfernandss
 - 👀 I’m interested in learning a lot of things, growing up as a professional. And get a job. lol
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can contact me on LinkedIn @samfernandss
 
 <!---
 samfernandss/samfernandss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
